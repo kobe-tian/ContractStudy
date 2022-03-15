@@ -7,5 +7,6 @@
      - 包含 node\npm\truffle\solc\hardhat 等开发环境下载及安装
      - 包含 vscode\ganache等开发工具下载
      - 包含 ganache & metamask & web3.js & truffle 部署上线等（仅指测试网络）
+  - 提交代码、截图、校验hash等
 
 - *day02 学习目标*
